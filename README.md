@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m Junior Front-End developer with a passion for learning new things<br>🌱 I’m currently learning and trying to improve my ![VUE](https://img.shields.io/badge/-Vue.js-4fc08d?style=flat&logo=vuedotjs&logoColor=white) skills<br>💬 Shoot me an Email or add me on LinkedIn :)<br>
+🔭 I’m Junior Front-End developer with a passion for learning new things<br>🌱 I’m currently learning and trying to improve my Programming skills<br>💬 Shoot me an Email or add me on LinkedIn :)<br>
 
 
 ## 🌐 Socials:
