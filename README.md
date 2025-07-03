@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m Junior Front-End developer with a passion for learning new things<br>🌱 I’m currently learning and trying to improve my Programming skills And TypeScript <br>💬 Shoot me an Email or add me on LinkedIn :)<br>
+🔭 I’m Junior Front-End developer with a passion for learning new things<br>🌱 I’m currently learning and trying to improve my Programming skills and master TypeScript :D <br>💬 Shoot me an Email or add me on LinkedIn :)<br>
 
 
 ## 🌐 Socials:
