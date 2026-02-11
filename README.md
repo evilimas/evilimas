@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m Junior Front-End developer with some Back-end Experience with a passion for learning new things<br>🌱 I’m currently learning Express.js and some React Native and also trying to improve my Programming skills and master TypeScript  <br>💬 Shoot me an Email or add me on LinkedIn :)<br>
+🔭 I’m Junior Front-End developer with some Back-end Experience with a passion for learning new things<br>🌱 I’m currently learning Express.js and some React Native and also trying to improve my TypeScript  <br>💬 Shoot me an Email or add me on LinkedIn :)<br>
 
 
 ## 🌐 Socials:
