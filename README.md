@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m Junior Full-stack developer with focus on Front-end with a passion for learning new things<br>🌱 I’m currently learning some React Native   <br>💬 Shoot me an Email or add me on LinkedIn :) <br>
+🔭 I’m a junior Full-Stack developer with a focus on Frontend and a passion for learning new things.<br>🌱 I’m currently learning some React Native   <br>💬 Shoot me an Email or add me on LinkedIn :) <br>
 
 
 ## 🌐 Socials:
