@@ -4,7 +4,7 @@
 
 I'm a **Junior Full-Stack Developer**, with a stronger background in frontend development and hands-on experience with backend technologies.
 
-I enjoy building applications and turning ideas into something that actually works. I like working with modern frontend technologies and learning new tools by building projects and solving problems along the way.
+I enjoy building applications and turning ideas into something that actually works. I like working with modern frontend and backend technologies and learning new tools by building projects and solving problems along the way.
 
 I'm currently learning more about **React Native** ,mobile development and **Astro** while continuing to improve my frontend and backend skills.
 
